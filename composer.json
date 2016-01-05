@@ -1,5 +1,5 @@
  {
-    "name": "orzcc/aliyun-oss",
+    "name": "okworld26/aliyun-oss",
     "type": "library",
     "description": "Aliyun oss for Laravel5, also support flysystem adapter",
     "keywords": ["aliyun", "oss", "laravel", "flysystem"],
