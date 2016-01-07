@@ -19,7 +19,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Okworld26\\AliyunOss\\": "src/",
+        "okworld26\\AliyunOss\\": "src/",
         "Aliyun\\": "src/Aliyun/"
       }
     }

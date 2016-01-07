@@ -1,4 +1,4 @@
-<?php namespace Okworld26\AliyunOss;
+<?php namespace okworld26\AliyunOss;
 
 use Storage;
 use Aliyun\OSS\OSSClient;
