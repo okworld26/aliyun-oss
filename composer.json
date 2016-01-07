@@ -3,12 +3,12 @@
     "type": "library",
     "description": "Aliyun oss for Laravel5, also support flysystem adapter",
     "keywords": ["aliyun", "oss", "laravel", "flysystem"],
-    "homepage": "https://github.com/orzcc/aliyun-oss",
+    "homepage": "https://github.com/okworld26/aliyun-oss",
     "license": "MIT",
     "authors": [
         {
-            "name": "orzcc",
-            "email": "orzcczh@gmail.com"
+            "name": "Okworld26",
+            "email": "Okworld26@gmail.com"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Orzcc\\AliyunOss\\": "src/",
+        "Okworld26\\AliyunOss\\": "src/",
         "Aliyun\\": "src/Aliyun/"
       }
     }
